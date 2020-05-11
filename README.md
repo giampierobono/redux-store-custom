@@ -1,2 +1,3 @@
 # redux-store-custom
-implementation of a simple version of the store
+
+Implementation of a simple version of the store and "connect" function to create higher order components.
